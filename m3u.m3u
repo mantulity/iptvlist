@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV LOKAL", RCTI HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
+#EXTINF:-1 group-title="TV LOKAL", MNC TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/12
+#EXTINF:-1 group-title="TV LOKAL", GTV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/13
+#EXTINF:-1 group-title="TV LOKAL", INEWS TV
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/14
+#EXTINF:-1 group-title="TV LOKAL", INDOSIAR HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/15
+#EXTINF:-1 group-title="TV LOKAL", SCTV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/16
+#EXTINF:-1 group-title="TV LOKAL", TRANS 7 HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/17
+#EXTINF:-1 group-title="TV LOKAL", TRANS TV HD
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/18
