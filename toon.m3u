@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV Anak", ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="TV Anak", ANIPLUS Backup
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="TV Anak", MyKidz
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/88
+#EXTINF:-1 group-title="TV Anak", Spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
